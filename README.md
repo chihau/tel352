@@ -6,3 +6,4 @@
 - [Google Colab - Celsius to Fahrenheit](https://colab.research.google.com/github/chihau/tel352/blob/master/colab/celsius_to_fahrenheit.ipynb)
 - [Google Colab - Fashion MNIST](https://colab.research.google.com/github/chihau/tel352/blob/master/colab/basic_classification.ipynb)
 - [Google Colab - Fashion MNIST with CNN](https://colab.research.google.com/github/chihau/tel352/blob/master/colab/Fashion_MNIST_Convolutions.ipynb)
+- [Google Colab - Image Classifier with Transfer Learning](https://colab.research.google.com/github/chihau/tel352/blob/master/colab/tensorflow_hub_and_transfer_learning.ipynb)

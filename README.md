@@ -15,9 +15,9 @@
 - [Voice Recognition (Transfer Learning)](https://github.com/chihau/tel352/tree/master/javascript/tfjs-audio-recognition)
 
 ### TensorFlow Lite
-- [Convert a Keras model to TensorFlow Lite](https://colab.research.google.com/github/chihau/tel352/blob/master/tensorflow/android/ConvertModel_Keras_to_tflite.ipynb)
-- [Celcius to Fahrenheit with TensorFlow Lite Python](https://colab.research.google.com/github/chihau/tel352/blob/master/tensorflow/android/Python_tflite.ipynb)
-- [Celcius to Fahrenheit with TensorFlow Lite Android](https://github.com/chihau/tel352/tree/master/tensorflow/android/CtoFtflite) [APK](https://github.com/chihau/tel352/tree/master/tensorflow/android/CtoFtflite.apk)
-- [Image Classification](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification) [APK](https://github.com/chihau/tel352/tree/master/tensorflow/android/image_classification.apk)
-- [Object Detection](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection) [APK](https://github.com/chihau/tel352/tree/master/tensorflow/android/object_detection.apk)
-- [Speech Commands](https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands) [APK](https://github.com/chihau/tel352/tree/master/tensorflow/android/speech_commands.apk)
+- [Convert a Keras model to TensorFlow Lite](https://colab.research.google.com/github/chihau/tel352/blob/master/android/ConvertModel_Keras_to_tflite.ipynb)
+- [Celcius to Fahrenheit with TensorFlow Lite Python](https://colab.research.google.com/github/chihau/tel352/blob/master/android/Python_tflite.ipynb)
+- [Celcius to Fahrenheit with TensorFlow Lite Android](https://github.com/chihau/tel352/tree/master/android/CtoFtflite) [APK](https://github.com/chihau/tel352/tree/master/android/CtoFtflite.apk)
+- [Image Classification](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification) [APK](https://github.com/chihau/tel352/tree/master/android/image_classification.apk)
+- [Object Detection](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection) [APK](https://github.com/chihau/tel352/tree/master/android/object_detection.apk)
+- [Speech Commands](https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands) [APK](https://github.com/chihau/tel352/tree/master/android/speech_commands.apk)

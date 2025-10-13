@@ -21,3 +21,4 @@
 - [Image Classification](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification) [APK](https://github.com/chihau/tel352/tree/master/android/image_classification.apk)
 - [Object Detection](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection) [APK](https://github.com/chihau/tel352/tree/master/android/object_detection.apk)
 - [Speech Commands](https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands) [APK](https://github.com/chihau/tel352/tree/master/android/speech_commands.apk)
+- [Flowers Classifier with TensorFlow Lite Android](https://github.com/chihau/tel352/tree/master/android/TFLite_Flowers) [APK](https://github.com/chihau/tel352/tree/master/android/tflite-flowers.apk)
